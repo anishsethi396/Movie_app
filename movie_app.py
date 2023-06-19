@@ -1,6 +1,5 @@
 import random
 import requests
-from storage_json import StorageJson
 
 API_KEY = 79153533
 
